@@ -1,5 +1,3 @@
-# AI Website List
-# ------------------------------------[FILTERS]-------------------------------------
 cybertechnosys.com
 driveshero.com
 nerdytechblog.com
@@ -62,3 +60,10 @@ raspberrypibox.com
 productiveclue.com
 pctechbits.com
 dmwchocolates.com
+todaystechbytes.com
+vra.net
+toptenreviewed.com
+utoptens.com
+motorsandpump.com
+homeer.com
+pcbuildadvisor.com
